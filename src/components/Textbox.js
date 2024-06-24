@@ -16,6 +16,11 @@ export default function Textbox(props) {
     props.showalert("converted to upper case")
   }
 
+  function no_space(num)
+  {
+    return num.length()!==0;
+  }
+
    function handle_onchange(event)
    {
      
@@ -24,7 +29,7 @@ export default function Textbox(props) {
 
    function words()
    {
-     let words=text.split(" ").length;
+     let words=text.split(" ").filter(no_space).length;
      return words;
    }
 
