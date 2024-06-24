@@ -1,0 +1,136 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": {
+        "id": "bbcnews",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "US tourist found dead on Greek island",
+      "description": "A number of foreigners have gone missing as Greece suffers its earliest heatwave on record.",
+      "url": "https://www.bbc.co.uk/news/articles/cl550xgnpl3o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5165/live/e5de1c702c9611ef90b1bf36248cf254.jpg",
+      "publishedAt": "20240617T11:07:17.2296443Z",
+      "content": "The body of an American tourist has reportedly been found on the Greek island of Mathraki, adding to the list of foreigners missing or dead during a recordsetting heatwave.\r\nA Dutchman was also foun… [+1686 chars]"
+    },
+    {
+      "source": {
+        "id": "bbcnews",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Climate change: The Kenyan influencer promoting denial",
+      "description": "A Kenyan farmer has caught the eye of climate change deniers worldwide. But what is driving him?",
+      "url": "https://www.bbc.co.uk/news/articles/c133r4gyx1no",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e15f/live/67ea63b027db11ef80aa699d54c46324.png",
+      "publishedAt": "20240617T10:52:16.4826008Z",
+      "content": "This is not religion, this is not just belief. It's about analysing the data and seeing changes in the data.\r\nSaying that climate [change] is a hoax is just really not true, Dr Kimutai added.\r\nMr Mac… [+1129 chars]"
+    },
+    {
+      "source": {
+        "id": "bbcnews",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Gaza: Israel's Netanyahu dissolves war cabinet after departures",
+      "description": "The move comes just over a week after two centrist politicians quit the top decisionmaking body.",
+      "url": "https://www.bbc.co.uk/news/articles/ce99m0n99z0o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0833/live/5d6a67802c8d11ef8ad20f930ea0f762.jpg",
+      "publishedAt": "20240617T10:37:17.0114504Z",
+      "content": "Mr Gantz and Mr Eisenkot quit over the prime ministers leadership, including the lack of a plan for postconflict Gaza.\r\nThe two former military chiefs had joined a national unity government with Mr … [+1492 chars]"
+    },
+    {
+      "source": {
+        "id": "bbcnews",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Tony Awards: Daniel Radcliffe and Angelina Jolie land first wins",
+      "description": "Jeremy Strong and Sarah Paulson are also among the winners at the event celebrating Broadway theatre.",
+      "url": "https://www.bbc.co.uk/news/articles/czvv5eqqdy0o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c629/live/9bb948402c7d11efb9c69f812c59f3ec.jpg",
+      "publishedAt": "20240617T09:52:14.9797311Z",
+      "content": "Meanwhile, Angelina Jolie won her first Tony Award for producing The Outsiders, which was named best musical and picked up three other awards after receiving a total of 12 nominations. \r\nThe 49year… [+1207 chars]"
+    },
+    {
+      "source": {
+        "id": "bbcnews",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "My Sextortion Diary: 'Hackers leaked intimate photos after my laptop was stolen'",
+      "description": "A Spanish filmmaker turned the cameras on herself and made a \"sextortion diary\" after being blackmailed.",
+      "url": "https://www.bbc.co.uk/news/articles/cmmm75407j9o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/04b5/live/b57eefd0298c11efa1fa1b739acc6f54.jpg",
+      "publishedAt": "20240617T09:22:18.0418987Z",
+      "content": "The biggest challenge was how to make something cinematic out of so little material. Franquesa could only document her own side of the story, and most of the developments happen via written communica… [+1639 chars]"
+    },
+    {
+      "source": {
+        "id": "bbcnews",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Cheng Lei: Chinese officials appear to block freed journalist from view in Canberra",
+      "description": "The Australian reporter  jailed in China for three years  was attending a bilateral event in Canberra.",
+      "url": "https://www.bbc.co.uk/news/articles/cjjjgqwen46o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ec70/live/f519e1b02c7311efb9c69f812c59f3ec.jpg",
+      "publishedAt": "20240617T08:52:12.6203845Z",
+      "content": "Chinese officials appear to have blocked a formerly imprisoned journalist from the view of cameras at an event between Chinese Premier Li Qiang and Australian Prime Minister Anthony Albanese in Canbe… [+2509 chars]"
+    },
+    {
+      "source": {
+        "id": "bbcnews",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Nikhil Gupta: Indian man accused of murder plot extradited to US",
+      "description": "Nikhil Gupta is charged with trying to hire a hitman to assassinate US citizen Gurpatwant Singh Pannun.",
+      "url": "https://www.bbc.co.uk/news/articles/c3ggy5ypj68o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dda8/live/b0aca1702c6411ef9bea8d21eec9d721.jpg",
+      "publishedAt": "20240617T06:52:14.8415869Z",
+      "content": "Prison records show he is currently being held at the federal Metropolitan Detention Centre in Brooklyn.\r\nHe is expected to be produced in a federal court in New York on Monday. The charges against h… [+1952 chars]"
+    },
+    {
+      "source": {
+        "id": "bbcnews",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Putin taunts West as Russia eyes ‘deep relations’ with North Korea",
+      "description": "Russia's president is due to meet Kim Jong Un next week, his first visit to North Korea since 2000.",
+      "url": "https://www.bbc.co.uk/news/articles/cv22l88pr4po",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1683/live/8b91b1b02a5611efb7f82727993a07a1.jpg",
+      "publishedAt": "20240617T05:37:20.2763353Z",
+      "content": "By visiting North Korea, Mr Putin can simply demonstrate to his detractors that he can  and will  do what he wants.\r\nFind a workaround to the Western sanctions slapped on his country? For now, yes,… [+2712 chars]"
+    },
+    {
+      "source": {
+        "id": "bbcnews",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Ukraine war: Conscription squads send Ukrainian men into hiding",
+      "description": "Public transport, cafes and supermarkets are now off limits to men trying to avoid being enlisted.",
+      "url": "https://www.bbc.co.uk/news/articles/cz994d6vqe5o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dbe2/live/b79e2cd0280c11efa13a0b8c563da930.png",
+      "publishedAt": "20240617T05:37:17.7613365Z",
+      "content": "On the outskirts of Odesa, Vova appeared sheepishly at the door of his apartment block, using his sevenyearold daughter as a shield. The IT engineer will not leave the house without her as he knows… [+1209 chars]"
+    },
+    {
+      "source": {
+        "id": "bbcnews",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Greek coastguard threw migrants overboard to their deaths, witnesses say",
+      "description": "More than 40 people are alleged to have died as a result of Greek coastguard actions, BBC analysis reveals.",
+      "url": "https://www.bbc.co.uk/news/articles/c0vv717yvpeo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8f9c/live/fb984320297f11efb3b8ed2dd2d12607.png",
+      "publishedAt": "20240617T05:37:14.7152156Z",
+      "content": "Another man, from Somalia, told the BBC how in March 2021 he had been caught by the Greek army on arrival on the island of Chios, who then handed him to the Greek coastguard.\r\nHe said the coastguard … [+2346 chars]"
+    }
+  ]
+}
